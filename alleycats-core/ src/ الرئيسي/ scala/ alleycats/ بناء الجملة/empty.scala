@@ -1,4 +1,4 @@
-package alleycats
+User Name package alleycats
 package syntax
 
 import cats.Eq
